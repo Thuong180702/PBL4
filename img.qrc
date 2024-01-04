@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>download (1).png</file>
+    <file>download.png</file>
+    <file>1200px-Python.svg.png</file>
+  </qresource>
+</RCC>
